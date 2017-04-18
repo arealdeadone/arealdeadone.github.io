@@ -7,7 +7,8 @@
  
  <h2>How to get it?</h2>
 <h3>To install simply run</h3>
- ```sh
+
+```
     git clone https://github.com/arealdeadone/arealdeadone.github.io.git
 ```
 And you are good to go.
